@@ -1,0 +1,23 @@
+{
+
+  "params": {
+
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/bgtv",
+    "prod_uri": "mysql://root:@localhost/bgtv",
+    "fb_url": "http://facebook.com/bingetv",
+    "tw_url": "http://twitter.com/bingetv",
+    "gh_url": "http://github.com/bingetv",
+    "blog_name": "BingeTV",
+    "tag_line": "Movies, Web-series and Anime.....",
+    "gmail-user": "darshansonawane1207@gmail.com",
+    "gmail-password": "d@120701",
+    "about_text": "This is project to demonstrate Data Base connectivity using a front end language like python. Created by Nikat Gour, Sanket Umbare and Darshan Sonawane.",
+    "no_of_post": 5,
+    "login_image": "login.svg",
+    "admin_user": "MeMySelf",
+    "admin_password": "thisismyninjaway",
+    "upload_location": "C:\\Users\\DELL\\PycharmProjects\\Flask2\\static"
+
+  }
+}
